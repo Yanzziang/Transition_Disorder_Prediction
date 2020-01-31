@@ -1,4 +1,4 @@
-#!/home/yan-ziang/anaconda3/bin/python3
+#!/usr/bin/python3
 
 from tensorflow.keras import backend as K
 import tensorflow as tf
