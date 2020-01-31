@@ -12,6 +12,7 @@ We combined two similar task, protein transition sites prediction and disorder r
 - CUDA 9.0/10.0
 - Python3, Python2, Pandas
 
+&nbsp;&nbsp;
 **2. Feature Requirements**
 - Uniref or NR dataset
   - If you already had pssm file, you can move pssm file to `./features_generation/pssm/`.
@@ -35,11 +36,13 @@ We combined two similar task, protein transition sites prediction and disorder r
   3. Result written to a ".rbn" file is shown in `./Transition/outcome/`.
 
 
+&nbsp;&nbsp;
 **2. Examples**
 
 Examples of model outcomes are presented in `./Disorder/ex/` and `./Transition/ex/`, respectively.
 
 
+&nbsp;&nbsp;
 **3. Features**
 
 - yielded pssm file is in `./features_generation/pssm/`.
