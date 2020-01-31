@@ -27,11 +27,11 @@ D
 - Disorder prediction by Res-BiLstm
   1. `cd Disorder/scripts/`.
   2. `./pred.py <your sequence>.fasta`.
-  3. Result is shown in `./Disorder/outcome/`.
+  3. Result written to a ".rb" file in `./Disorder/outcome/`.
 - Transition prediction by Res-BiLstm-NN
   1. `cd Transition/scripts/`.
   2. `./pred.py <your sequence>.fasta`.
-  3. Result is shown in `./Transition/outcome/`.
+  3. Result written to a ".rbn" file is shown in `./Transition/outcome/`.
 
 
 **2. Examples**
