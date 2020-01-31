@@ -4,7 +4,7 @@ We combined two similar task, protein transition sites prediction and disorder r
 
 
 ## Installation
-D
+
 **1. Tool Requirements**
 - Keras 2.2.4-tf
 - Tensorflow-gpu 1.13.1
@@ -28,6 +28,7 @@ D
   1. `cd Disorder/scripts/`.
   2. `./pred.py <your sequence>.fasta`.
   3. Result written to a ".rb" file in `./Disorder/outcome/`.
+  
 - Transition prediction by Res-BiLstm-NN
   1. `cd Transition/scripts/`.
   2. `./pred.py <your sequence>.fasta`.
