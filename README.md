@@ -40,7 +40,7 @@ We combined two similar task, protein transition sites prediction and disorder r
 
 **2. Examples**
 
-  Examples of model outcomes are presented in `./Disorder/ex/` and `./Transition/ex/`, respectively.
+- Examples of model outcomes are presented in `./Disorder/ex/` and `./Transition/ex/`, respectively.
 
 
 
