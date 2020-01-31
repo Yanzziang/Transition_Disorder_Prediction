@@ -51,5 +51,8 @@ Examples of model outcomes are presented in `./Disorder/ex/` and `./Transition/e
 - yielded physicochemical features file is in `./features_generation/physicochemical/phy_file`.
 
 
-
+**4. Usage**
+The generation of structural features is on the basis of article below.
+1. R. Heffernan, K. Paliwal, J. Lyons, A. Dehzangi, A. Sharma, J. Wang, A. Sattar, Y. Yang* and Y. Zhou*. Improving prediction of secondary structure, local backbone angles, and solvent accessible surface area of proteins by iterative deep learning. Scientific Reports 2015(5) 
+2. R. Heffernan, K. Paliwal, J. Lyons, A. Dehzangi, A. Sharma, J. Wang, A. Sattar, Y. Zhou* and Y Yang*. Highly accurate sequence-based prediction of half-sphere exposures of amino acid residues in proteins. Bioinformatics 2016. 15;32(6):843-9.
 
