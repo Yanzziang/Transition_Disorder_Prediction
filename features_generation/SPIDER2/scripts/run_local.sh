@@ -2,7 +2,7 @@
 
 ########
 blastpgp=~/work/blast/ncbi-blast-2.7.1+/bin/psiblast
-NR=/home/yan-ziang/work/Database/uniref_3/uniref_3
+NR=~/work/Database/uniref_3/uniref_3
 if [ ! -f $blastpgp ]; then echo "psiblast is not correctly set"; exit 1; fi
 if [ ! -f $NR.pal ]; then echo "NR database is required"; exit 1; fi
 
