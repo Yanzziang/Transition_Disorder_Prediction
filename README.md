@@ -14,9 +14,10 @@ We combined two similar task, protein transition sites prediction and disorder r
 **Features Requirements**
 - Uniref or NR dataset
   - If you already had pssm file, you can move pssm file to `./features_generation/pssm/`.
-  - If you need make a pssm file, you need download the dataset and revise the path in `./features_generation/SPIDER2/scripts/run_local.sh`.
-- Uniref or NR dataset
+  - If you need make a pssm file, you need download the Uniref or NR dataset and revise the path in the variable "NR" in `./features_generation/SPIDER2/scripts/run_local.sh`.
+- Psiblast 
+  - Path setting is in `./features_generation/SPIDER2/scripts/run_local.sh`
 
 
 ## Implementation
-
+**Running**
