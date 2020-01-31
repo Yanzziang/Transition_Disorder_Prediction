@@ -5,7 +5,7 @@ We combined two similar task, protein transition sites prediction and disorder r
 
 ## Installation
 
-1. **Tool Requirements**
+**Tool Requirements**
 - Keras 2.2.4-tf
 - Tensorflow-gpu 1.13.1
 - GPUs
@@ -13,7 +13,7 @@ We combined two similar task, protein transition sites prediction and disorder r
 - Python3, Python2, Pandas
 
 
-2. **Feature Requirements**
+**Feature Requirements**
 - Uniref or NR dataset
   - If you already had pssm file, you can move pssm file to `./features_generation/pssm/`.
   - If you need make a pssm file, you need download the Uniref or NR dataset and revise the path in the variable "NR" in `./features_generation/SPIDER2/scripts/run_local.sh`.
