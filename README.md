@@ -5,20 +5,21 @@ We combined two similar task, protein transition sites prediction and disorder r
 
 ## Installation
 
-**1. Tool Requirements**
+1. **Tool Requirements**
 - Keras 2.2.4-tf
 - Tensorflow-gpu 1.13.1
 - GPUs
 - CUDA 9.0/10.0
 - Python3, Python2, Pandas
 
-&nbsp;&nbsp;
-**2. Feature Requirements**
+
+2. **Feature Requirements**
 - Uniref or NR dataset
   - If you already had pssm file, you can move pssm file to `./features_generation/pssm/`.
   - If you need make a pssm file, you need download the Uniref or NR dataset and revise the path in the variable "NR" in `./features_generation/SPIDER2/scripts/run_local.sh`.
 - Psiblast 
   - Path setting is in `./features_generation/SPIDER2/scripts/run_local.sh`
+
 
 
 ## Implementation
@@ -36,13 +37,13 @@ We combined two similar task, protein transition sites prediction and disorder r
   3. Result written to a ".rbn" file is shown in `./Transition/outcome/`.
 
 
-&nbsp;&nbsp;
+
 **2. Examples**
 
 Examples of model outcomes are presented in `./Disorder/ex/` and `./Transition/ex/`, respectively.
 
 
-&nbsp;&nbsp;
+
 **3. Features**
 
 - yielded pssm file is in `./features_generation/pssm/`.
