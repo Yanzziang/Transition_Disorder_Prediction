@@ -21,3 +21,9 @@ We combined two similar task, protein transition sites prediction and disorder r
 
 ## Implementation
 **1. Running**
+- Disorder prediction
+  ```
+  cd Disorder/scripts/
+  ./pred.py <your sequence>.fasta
+  ```
+  
