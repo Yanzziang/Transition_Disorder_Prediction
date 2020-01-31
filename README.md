@@ -25,4 +25,12 @@ We combined two similar task, protein transition sites prediction and disorder r
   1. `cd Disorder/scripts/`
   2. `./pred.py <your sequence>.fasta`
   3. Result is shown in `./Disorder/outcome/`
-  
+- Transition prediction by Res-BiLstm-NN
+  1. `cd Transition/scripts/`
+  2. `./pred.py <your sequence>.fasta`
+  3. Result is shown in `./Transition/outcome/`
+
+**2. Example**
+Examples of model outcomes are presented in `./Disorder/ex/` and `./Transition/ex/`, respectively.
+
+
