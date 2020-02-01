@@ -97,7 +97,7 @@ def combine(xdir, sequence):
     
     df = pd.DataFrame(pssm_phy_ss)
     df.drop(df.columns[[0]], axis=1, inplace=True)
-    #df.to_csv("/usr/Desktop/Protein_Transitions_Disorder_prediction/tmp.csv")
+    #df.to_csv("/usr/Protein_Transitions_Disorder_prediction/tmp.csv")
     return df
 
 
