@@ -1,4 +1,4 @@
-Disorder prediction by Res-BiLstm for /lustre7/home/lustre3/yan-ziang/Protein_Transitions_Disorder_prediction/2019-nCoV.fasta
+Disorder prediction by Res-BiLstm for /usr/Protein_Transitions_Disorder_prediction/2019-nCoV.fasta
 > 2019-nCoV (Surface glycoprotein (S))
 Num	AA	Proba	Label
 1	M	0.9984	D
