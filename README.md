@@ -58,5 +58,6 @@ The generation of structural features is on the basis of articles below.
 2. R. Heffernan, K. Paliwal, J. Lyons, A. Dehzangi, A. Sharma, J. Wang, A. Sattar, Y. Zhou* and Y Yang*. Highly accurate sequence-based prediction of half-sphere exposures of amino acid residues in proteins. Bioinformatics 2016. 15;32(6):843-9.
 
 
-## 2019-nCoV (Surface glycoprotein (S)) Example
+## Example: 2019-nCoV (Surface glycoprotein (S))
 
+We particularly provide the transition and disorder prediction results of surface glycoprotein of 2019-nCoV for promoting drug discovery.
