@@ -60,4 +60,4 @@ The generation of structural features is on the basis of articles below.
 
 ### Example: 2019-nCoV (Surface glycoprotein (S))
 
-We particularly provide the transition and disorder prediction results of surface glycoprotein of 2019-nCoV for promoting drug discovery.
+We particularly provide the transition and disorder prediction results of surface glycoprotein of 2019-nCoV for further promoting drug discovery.
