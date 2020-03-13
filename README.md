@@ -5,7 +5,8 @@ We combined two similar task, protein transition sites prediction and disorder r
 
 ## Installation
 
-**1. Tool Requirements (Recommend installing anaconda on your device then create environment with Libraries like Tensorflow)**
+**1. Tool Requirements**
+(Recommend installing anaconda on your device then create environment with Libraries like Tensorflow)
 - Keras 2.2.4-tf
 - Tensorflow-gpu 1.13.1
 - GPUs
