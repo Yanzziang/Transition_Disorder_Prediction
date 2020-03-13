@@ -10,13 +10,13 @@ We combined two similar task, protein transition sites prediction and disorder r
 - Tensorflow-gpu 1.13.1
 - GPUs
 - CUDA 9.0/10.0
-- Python3, Python2, Pandas
+- Python3, Python2, Pandas, Sklearn
 
 
 **2. Feature Requirements**
 - Uniref or NR dataset
-  - If you already had pssm file, you can move pssm file to `./features_generation/pssm/`.
   - If you need make a pssm file, you need download the Uniref or NR dataset and revise the path in the variable "NR" in `./features_generation/SPIDER2/scripts/run_local.sh`.
+  - If you already had pssm file, you can move pssm file to `./features_generation/pssm/`, the new pssm file will not be made again.
 - Psiblast 
   - Path setting is in `./features_generation/SPIDER2/scripts/run_local.sh`
 
@@ -46,9 +46,9 @@ We combined two similar task, protein transition sites prediction and disorder r
 
 **3. Features**
 
-- yielded pssm file is in `./features_generation/pssm/`.
-- yielded structural features file is in `./features_generation/SPIDER2/ss_file/`.
-- yielded physicochemical features file is in `./features_generation/physicochemical/phy_file`.
+- Yielded pssm file is in `./features_generation/pssm/`.
+- Yielded structural features file is in `./features_generation/SPIDER2/ss_file/`.
+- Yielded physicochemical features file is in `./features_generation/physicochemical/phy_file`.
 
 
 **4. Usage**
