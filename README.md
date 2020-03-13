@@ -11,7 +11,7 @@ We combined two similar task, protein transition sites prediction and disorder r
 - GPUs
 - CUDA 9.0/10.0
 - Python3, Python2, Pandas, Sklearn
-
+(It is convenient to install anaconda in your device then create environment with Tensorflow, Python, Pandas, Sklearn)
 
 **2. Feature Requirements**
 - Uniref or NR dataset
