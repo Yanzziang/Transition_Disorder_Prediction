@@ -5,14 +5,13 @@ We combined two similar task, protein transition sites prediction and disorder r
 
 ## Installation
 
-**1. Tool Requirements**
+**1. Tool Requirements (Recommend installing anaconda on your device then create environment with Libraries like Tensorflow)**
 - Keras 2.2.4-tf
 - Tensorflow-gpu 1.13.1
 - GPUs
 - CUDA 9.0/10.0
 - Python3, Python2, Pandas, Sklearn
 
-(It is convenient to install anaconda in your device then create environment with Tensorflow, Python, Pandas, Sklearn)
 
 **2. Feature Requirements**
 - Uniref or NR dataset
